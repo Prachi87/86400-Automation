@@ -9,7 +9,7 @@ const opts = {
         platformName: "Android",
         platformVersion: "10",
         deviceName: "OnePlus 5",
-        app: "C:\\Users\\pnarkhede\\OneDrive - Claim Central Pty Ltd\\Documents\\86400 - Automation Test\\mobile-automation\\apk\\com-ebay-mobile-6062002-62473774-7b59c581b367d148f5f7b7d77695681f.apk",
+        app: "mobile-automation\\apk\\com-ebay-mobile-6062002-62473774-7b59c581b367d148f5f7b7d77695681f.apk",
         appPackage: "com.android.vending",
         appActivity: "com.ebay.mobile.activities.MainActivity",
         automationName: "UiAutomator2"
