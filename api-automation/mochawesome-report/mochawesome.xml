@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0110" tests="13" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-05-26T01:22:37" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PetSore API Tests" timestamp="2022-05-26T01:22:37" tests="0" file="C:\Users\pnarkhede\OneDrive - Claim Central Pty Ltd\Documents\86400 - Automation Test\api-automation\test\petStoreTests.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Get Pet details by Id" timestamp="2022-05-26T01:22:37" tests="4" file="C:\Users\pnarkhede\OneDrive - Claim Central Pty Ltd\Documents\86400 - Automation Test\api-automation\test\petStoreTests.js" time="0.0060" failures="0">
+    <testcase name="PetSore API Tests Get Pet details by Id should return 200" time="0.0020" classname="should return 200">
+    </testcase>
+    <testcase name="PetSore API Tests Get Pet details by Id should return a json body" time="0.0030" classname="should return a json body">
+    </testcase>
+    <testcase name="PetSore API Tests Get Pet details by Id should have correct pet id" time="0.0010" classname="should have correct pet id">
+    </testcase>
+    <testcase name="PetSore API Tests Get Pet details by Id should have correct status" time="0.0000" classname="should have correct status">
+    </testcase>
+  </testsuite>
+  <testsuite name="Update Pet name" timestamp="2022-05-26T01:22:38" tests="4" file="C:\Users\pnarkhede\OneDrive - Claim Central Pty Ltd\Documents\86400 - Automation Test\api-automation\test\petStoreTests.js" time="0.0020" failures="0">
+    <testcase name="PetSore API Tests Update Pet name should return 200" time="0.0000" classname="should return 200">
+    </testcase>
+    <testcase name="PetSore API Tests Update Pet name should return a json body" time="0.0010" classname="should return a json body">
+    </testcase>
+    <testcase name="PetSore API Tests Update Pet name should have correct pet id" time="0.0010" classname="should have correct pet id">
+    </testcase>
+    <testcase name="PetSore API Tests Update Pet name should have correct status" time="0.0000" classname="should have correct status">
+    </testcase>
+  </testsuite>
+  <testsuite name="Delete a Pet" timestamp="2022-05-26T01:22:39" tests="3" file="C:\Users\pnarkhede\OneDrive - Claim Central Pty Ltd\Documents\86400 - Automation Test\api-automation\test\petStoreTests.js" time="0.0030" failures="0">
+    <testcase name="PetSore API Tests Delete a Pet should return 200" time="0.0010" classname="should return 200">
+    </testcase>
+    <testcase name="PetSore API Tests Delete a Pet should return a json body" time="0.0020" classname="should return a json body">
+    </testcase>
+    <testcase name="PetSore API Tests Delete a Pet should have correct pet id" time="0.0000" classname="should have correct pet id">
+    </testcase>
+  </testsuite>
+  <testsuite name="Get Pet details by Id after deleting the pet" timestamp="2022-05-26T01:22:40" tests="2" file="C:\Users\pnarkhede\OneDrive - Claim Central Pty Ltd\Documents\86400 - Automation Test\api-automation\test\petStoreTests.js" time="0.0000" failures="0">
+    <testcase name="PetSore API Tests Get Pet details by Id after deleting the pet should return 404" time="0.0000" classname="should return 404">
+    </testcase>
+    <testcase name="PetSore API Tests Get Pet details by Id after deleting the pet should return a json body" time="0.0000" classname="should return a json body">
+    </testcase>
+  </testsuite>
+</testsuites>

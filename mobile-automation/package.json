@@ -1,0 +1,16 @@
+{
+  "name": "ebay-mobile",
+  "version": "1.0.0",
+  "description": "UI Testing Ebay Mobile App",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^4.1.2",
+    "webdriverio": "^7.19.7"
+  }
+}
